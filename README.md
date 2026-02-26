@@ -1,6 +1,6 @@
-# Center Box - Analisador de Extratos Cielo
+# Analisador de Extratos Cielo
 
-**Center Box** é uma ferramenta web gratuita e de código aberto desenvolvida para simplificar e automatizar a análise de extratos financeiros da Cielo. O sistema transforma o processo manual de cálculo em planilhas em uma experiência rápida e intuitiva, gerando relatórios gerenciais (PDF) com as informações essenciais para o seu dia a dia.
+**Esse código é uma ferramenta web gratuita e de código aberto desenvolvida para simplificar e automatizar a análise de extratos financeiros da Cielo. O sistema transforma o processo manual de cálculo em planilhas em uma experiência rápida e intuitiva, gerando relatórios gerenciais (PDF) com as informações essenciais para o seu dia a dia.
 
 ## Motivação
 
